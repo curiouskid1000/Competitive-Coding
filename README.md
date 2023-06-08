@@ -1,1 +1,1 @@
-# competative-coding
+# competitive-coding
