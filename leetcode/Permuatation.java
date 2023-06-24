@@ -2,7 +2,7 @@ class Solution {
     public void nextPermutation(int[] nums) {
         int i1=-1;
         int i2=-1;
-        // step 1 find breaking point 
+        
         for(int i=nums.length-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
                 i1=i;
